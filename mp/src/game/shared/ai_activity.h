@@ -202,6 +202,11 @@ typedef enum
 	ACT_GESTURE_TURN_LEFT90_FLAT,
 	ACT_GESTURE_TURN_RIGHT90_FLAT,
 
+
+	// My Custom sequence
+	ACT_TAILSWING,
+
+
 	// HALF-LIFE 1 compatability stuff goes here. Temporary!
 	ACT_BARNACLE_HIT,		// barnacle tongue hits a monster
 	ACT_BARNACLE_PULL,		// barnacle is lifting the monster ( loop )
